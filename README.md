@@ -43,7 +43,7 @@ pip install -r requirements.txt
 Run the pneumonia classification script using:
 
 ```bash
-python pneumonia classification.py
+python pneumonia_lassification.py
 ```
 
 ```bash
