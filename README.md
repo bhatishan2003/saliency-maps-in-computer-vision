@@ -74,4 +74,4 @@ Final Saliency Map visualization:
 
 - The saliency map highlights the regions of the chest X-ray that most influenced the model’s pneumonia prediction. Warmer colors (red/yellow) indicate higher importance, showing the lung areas the CNN focused on for classification.
 
-![Saliency Map Output](saliency_analysis_3.png)
+![Saliency Map Output](assets/saliency_analysis_3.png)
