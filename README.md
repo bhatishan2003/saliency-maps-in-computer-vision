@@ -66,6 +66,12 @@ Val   Loss: 0.6396 | Val   Acc: 85.42%
 Val Precision: 0.8229 | Recall: 0.9769 | F1: 0.8933
 ```
 
+## Techniques Used:
+
+- **Pertubation Based Method** - Perturbation-based saliency techniques explain model predictions by systematically altering or occluding parts of the input and observing changes in output, identifying regions that most influence the model’s decision through impact measurement.
+- **Gradient Input** - Gradient × Input is a saliency method that multiplies the input features by their gradients with respect to the output, highlighting features that strongly influence a model’s prediction.
+-
+
 ## Result
 
 ## 🖼️ Sample Output
