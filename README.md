@@ -70,7 +70,7 @@ Val Precision: 0.8229 | Recall: 0.9769 | F1: 0.8933
 
 - **Pertubation Based Method** - Perturbation-based saliency techniques explain model predictions by systematically altering or occluding parts of the input and observing changes in output, identifying regions that most influence the model’s decision through impact measurement.
 - **Gradient Input** - Gradient × Input is a saliency method that multiplies the input features by their gradients with respect to the output, highlighting features that strongly influence a model’s prediction.
--
+- **Grad-CAM** - Grad-CAM generates visual explanations by using gradients of a target class flowing into the final convolutional layer to produce a coarse heatmap, highlighting important image regions influencing a model’s prediction.
 
 ## Result
 
@@ -80,4 +80,4 @@ Final Saliency Map visualization:
 
 - The saliency map highlights the regions of the chest X-ray that most influenced the model’s pneumonia prediction. Warmer colors (red/yellow) indicate higher importance, showing the lung areas the CNN focused on for classification.
 
-![Saliency Map Output](assets/saliency_analysis_1.png?v=2)
+![Saliency Map Output](assets/saliency_analysis_1.png?v=3)
