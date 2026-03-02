@@ -1,0 +1,11 @@
+## Table of Contents <!-- omit in toc -->
+
+- [⚙️ Clone and Installation](#️-clone-and-installation)
+- [🚀 Usage](#-usage)
+  - [🔹 Train WITHOUT Orthogonal Loss](#-train-without-orthogonal-loss)
+  - [🔹 Train WITH Orthogonal Loss](#-train-with-orthogonal-loss)
+- [📊 Training Graph Comparison](#-training-graph-comparison)
+  - [🔹 Reconstruction Loss & Orthogonal Loss](#-reconstruction-loss--orthogonal-loss)
+- [🌌 Latent Space Visualization](#-latent-space-visualization)
+  - [🔬 Latent Space Comparison](#-latent-space-comparison)
+- [Development Notes](#development-notes)
